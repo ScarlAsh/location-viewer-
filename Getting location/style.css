@@ -1,0 +1,34 @@
+.btn{
+	margin:100px;
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	background-color: antiquewhite;
+	border: 2px solid antiquewhite;
+	text-align: center;
+	padding:20px;
+}
+body{
+	background-color: rgb(175, 193, 193);
+}
+.container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	justify-self: center;
+}
+.headline{
+	display: flex;
+	align-items: center;
+	align-self: center;
+	justify-content: center;
+	text-transform: capitalize;
+	font-weight: 600;
+	margin-top:50px;
+	color:rgb(136, 105, 105) ;
+	font-size: x-large;
+}
+
+
